@@ -53021,7 +53021,7 @@
                                 "points": "0",
                                 "Driver": {
                                     "driverId": "lawson",
-                                    "permanentNumber": "40",
+                                    "permanentNumber": "30",
                                     "code": "LAW",
                                     "url": "http://en.wikipedia.org/wiki/Liam_Lawson",
                                     "givenName": "Liam",
@@ -53766,7 +53766,7 @@
                                 "points": "0",
                                 "Driver": {
                                     "driverId": "lawson",
-                                    "permanentNumber": "40",
+                                    "permanentNumber": "30",
                                     "code": "LAW",
                                     "url": "http://en.wikipedia.org/wiki/Liam_Lawson",
                                     "givenName": "Liam",
@@ -54496,7 +54496,7 @@
                                 "points": "2",
                                 "Driver": {
                                     "driverId": "lawson",
-                                    "permanentNumber": "40",
+                                    "permanentNumber": "30",
                                     "code": "LAW",
                                     "url": "http://en.wikipedia.org/wiki/Liam_Lawson",
                                     "givenName": "Liam",
@@ -55371,7 +55371,7 @@
                                 "points": "0",
                                 "Driver": {
                                     "driverId": "lawson",
-                                    "permanentNumber": "40",
+                                    "permanentNumber": "30",
                                     "code": "LAW",
                                     "url": "http://en.wikipedia.org/wiki/Liam_Lawson",
                                     "givenName": "Liam",
@@ -55737,7 +55737,7 @@
             "url": "http://ergast.com/api/f1/2024/0/results.json",
             "limit": "30",
             "offset": "0",
-            "total": "439",
+            "total": "459",
             "RaceTable": {
                 "season": "2024",
                 "round": "0",
